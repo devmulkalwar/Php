@@ -1,5 +1,6 @@
-</html>
+
 <!DOCTYPE html> 
+<html>
 <head> 
 <title>Session 2</title> 
 </head> 
